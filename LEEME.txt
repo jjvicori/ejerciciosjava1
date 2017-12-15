@@ -1,0 +1,14 @@
+El ejercicio 5 está formado por:
+
+EEjercicio51.java
+Urna.java
+UrnaTrampa.java
+
+El ejercicio 6 está formado por:
+
+Caracter.java
+Clase61.java
+Cola.java
+Lista.java
+Pila.java
+pruebaCaracter.java
